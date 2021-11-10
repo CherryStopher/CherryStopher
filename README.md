@@ -35,13 +35,3 @@
   <img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=plastic&logo=pycharm&logoColor=black&color=black&labelColor=green"/>
   <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=plastic&logo=intellij-idea&logoColor=white"/>
 </p>
-
-<h2 align="center">
-  📈 Stats 📈
-</h2>
-
-<p align="center">
-  <a href="https://github.com/CherryStopher">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CherryStopher&langs_count=8&exclude_repo=Sarcastic-messages-analysis&theme=dark" />
-  </a>
-</p>
