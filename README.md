@@ -6,8 +6,9 @@
 </p>
 
 
-- 🎮: I love to play video games, especially those that are cooperative online with friends.
 - 💻: Currently studying "Design and Analysis of Algorithms", "Operating Systems", "Networks" and "Videogame Design and Development Workshop".
+- 🎮: I love to play video games, especially those that are cooperative online with friends.
+- 📖: My favorite anime is Death Note.
 
 
 <h2 align="center">
