@@ -2,7 +2,7 @@
   Hello World!! 😎 I’m Cristobal
 </h1>
 <p align="center">
-  I am a 4th semester student of Computer Science Engineering at FCFM, Universidad de Chile
+  I am a 4th semester student of Civil Engineering in Computing at FCFM, Universidad de Chile.
 </p>
 
 
