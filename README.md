@@ -6,7 +6,7 @@
 </p>
 
 
-- 💻: Currently studying "Software Engineering II", "Introduction to Cybersecurity", "Massive Data Processing", "UML Workshop", "High Availability Systems Architecture" and "Tools for Teamwork".
+- 💻: Currently finishing "Title Work".
 - 🎮: I love to play video games, especially those that are cooperative online with friends.
 - 📖: My favorite anime is Death Note.
 
