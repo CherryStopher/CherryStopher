@@ -20,6 +20,7 @@
   <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white" />
   <br>
+  <img alt="Typescript" src ="https://img.shields.io/badge/Typescript-1E90FF.svg?style=plastic&logo=typescript&logoColor=white"/>
   <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white"/>
   <img alt="C" src="https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white" />
@@ -27,12 +28,12 @@
 
   <br>
   <br>
-  <img alt"ReactJS" src="https://img.shields.io/badge/-React-228B22?logo=react&logoColor=white&style=flat">
-  <img alt"Django" src="https://img.shields.io/badge/-Django-FFD700?logo=django&logoColor=white&style=flat">
-  <img alt"Docker" src="https://img.shields.io/badge/-Docker-1E90FF?logo=docker&logoColor=white&style=flat">
+  <img alt"ReactJS" src="https://img.shields.io/badge/-React-228B22?style=plastic&logo=react&logoColor=white&style=flat">
+  <img alt"Django" src="https://img.shields.io/badge/-Django-FFD700?style=plastic&logo=django&logoColor=white&style=flat">
+  <img alt"Docker" src="https://img.shields.io/badge/-Docker-1E90FF?style=plastic&logo=docker&logoColor=white&style=flat">
   <br>
-  <img alt"FastAAPI" src="https://img.shields.io/badge/-FastAPI-20B2AA?logo=fastapi&logoColor=white&style=flat">
-  <img alt"Git" src="https://img.shields.io/badge/-Git-FF4500?logo=git&logoColor=white&style=flat">
+  <img alt"FastAAPI" src="https://img.shields.io/badge/-FastAPI-20B2AA?style=plastic&logo=fastapi&logoColor=white&style=flat">
+  <img alt"Git" src="https://img.shields.io/badge/-Git-FF4500?style=plastic&logo=git&logoColor=white&style=flat">
   
   
 
